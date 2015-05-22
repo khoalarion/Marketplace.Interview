@@ -1,0 +1,68 @@
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\Marketplace.Interview.Web.dll.config
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\Marketplace.Interview.Web.dll
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\Marketplace.Interview.Web.pdb
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\Castle.Core.dll
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\Castle.Windsor.dll
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\Marketplace.Interview.Business.dll
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\Newtonsoft.Json.dll
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Net.Http.dll
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Net.Http.Formatting.dll
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Net.Http.WebRequest.dll
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.Helpers.dll
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.Http.dll
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.Http.WebHost.dll
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.Mvc.dll
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.Providers.dll
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.Razor.dll
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.WebPages.Deployment.dll
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.WebPages.dll
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.WebPages.Razor.dll
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\Marketplace.Interview.Business.pdb
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\Castle.Core.xml
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\Castle.Windsor.xml
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\Newtonsoft.Json.xml
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.Helpers.xml
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.Mvc.xml
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.Razor.xml
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.WebPages.xml
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.WebPages.Deployment.xml
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.WebPages.Razor.xml
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Net.Http.xml
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Net.Http.Formatting.xml
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Net.Http.WebRequest.xml
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.Http.xml
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.Http.WebHost.xml
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\obj\Debug\Marketplace.Interview.Web.csprojResolveAssemblyReference.cache
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\obj\Debug\Marketplace.Interview.Web.dll
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\obj\Debug\Marketplace.Interview.Web.pdb
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\Marketplace.Interview.Web.dll.config
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\Marketplace.Interview.Web.dll
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\Marketplace.Interview.Web.pdb
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\Castle.Core.dll
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\Castle.Windsor.dll
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\Marketplace.Interview.Business.dll
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\Newtonsoft.Json.dll
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Net.Http.dll
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.Helpers.dll
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.Mvc.dll
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.Providers.dll
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.Razor.dll
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.WebPages.dll
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\Marketplace.Interview.Business.pdb
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\Castle.Core.xml
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\Castle.Windsor.xml
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\Newtonsoft.Json.xml
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.Helpers.xml
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.Mvc.xml
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.Razor.xml
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.WebPages.xml
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Net.Http.xml
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\obj\Debug\Marketplace.Interview.Web.csprojResolveAssemblyReference.cache
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\obj\Debug\Marketplace.Interview.Web.dll
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Web\obj\Debug\Marketplace.Interview.Web.pdb

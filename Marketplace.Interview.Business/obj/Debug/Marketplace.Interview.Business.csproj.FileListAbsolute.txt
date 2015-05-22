@@ -1,0 +1,17 @@
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\bin\Debug\Marketplace.Interview.Business.dll
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\bin\Debug\Marketplace.Interview.Business.pdb
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\bin\Debug\Castle.Core.dll
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\bin\Debug\Castle.Windsor.dll
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\bin\Debug\Castle.Core.xml
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\bin\Debug\Castle.Windsor.xml
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\obj\Debug\Marketplace.Interview.Business.csprojResolveAssemblyReference.cache
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\obj\Debug\Marketplace.Interview.Business.dll
+G:\MarketplaceInterview-master\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\obj\Debug\Marketplace.Interview.Business.pdb
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\bin\Debug\Marketplace.Interview.Business.dll
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\bin\Debug\Marketplace.Interview.Business.pdb
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\bin\Debug\Castle.Core.dll
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\bin\Debug\Castle.Windsor.dll
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\bin\Debug\Castle.Core.xml
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\bin\Debug\Castle.Windsor.xml
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\obj\Debug\Marketplace.Interview.Business.dll
+C:\Users\tdk\Desktop\Larion Test\Full\MarketplaceInterview-master\Marketplace.Interview\Marketplace.Interview.Business\obj\Debug\Marketplace.Interview.Business.pdb
